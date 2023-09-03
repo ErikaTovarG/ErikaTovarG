@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erika Tovar</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erikatovarg&label=Profile%20views&color=0e75b6&style=flat" alt="erikatovarg" /> </p>
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
